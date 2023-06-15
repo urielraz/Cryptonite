@@ -117,7 +117,7 @@ function About() {
                 <h4><p>Hi there!</p>
                 my name is Uriel Raz, and the application I developed helps us work with virtual currencies.</br> You can get up-to-date information about the specific currency you choose, converted to dollars, Euro and shekel. </h4>
                 <div>
-                <img src="assets/uriel_raz.jpg" alt="uriel's img" width="300">
+                <img src="/assets/uriel_raz.jpg" alt="uriel's img" width="300">
                 </div>
                 <div>
                 </br>
